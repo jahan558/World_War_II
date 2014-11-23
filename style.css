@@ -5,9 +5,7 @@
 .center{
     text-align: center;
 }
-.hero{
-    
-}
+
 .upper-case{
      text-transform:uppercase;
 }
@@ -330,9 +328,7 @@ footer{
     padding: 70px 0;
     
 }
-.nav-pills{
-    
-}
+
 .nav-pills>li>a{
     color: #4c5961;
 }
